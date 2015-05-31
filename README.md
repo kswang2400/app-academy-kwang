@@ -9,7 +9,7 @@ April 2015
 + W1D5 = DFS and BFS
 
 #### Week 2
-+ W2D1 = Minesweeper
++ W2D1 = [Minesweeper](https://github.com/kswang2400/minesweeper)
 + W2D2 = [Chess](https://github.com/kswang2400/chess)
 + W2D4 = [Checkers](https://github.com/kswang2400/checkers)
 + W2D5 = Test Driven Development && [Poker](https://github.com/kswang2400/poker)
@@ -17,12 +17,12 @@ April 2015
 #### Week 3
 + W3D1 = SQL Zoo
 + W3D2 = a/A Questions
-+ W3D3 = URL Shortener
++ W3D3 = [URL Shortener](https://github.com/kswang2400/url-shortener)
 + W3D4 = [Polls App](https://github.com/kswang2400/polls-app)
 + W3D5 = [ActiveRecord Lite](https://github.com/kswang2400/activerecord-lite)
 
 #### Week 4
-+ W4D1 = Contacts API
++ W4D1 = [Contacts API](https://github.com/kswang2400/contacts-api)
 + W4D2 = [99 Cats](https://github.com/kswang2400/cats_99)
 + W4D3 = [99 Cats with Auth](https://github.com/kswang2400/cats_99_day_2)
 + W4D4 = [Music App](https://github.com/kswang2400/music-app)
