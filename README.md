@@ -1,4 +1,4 @@
-# App Aacdemy Practice Problems
+# Kevin's App Academy Portfolio
 April 2015
 
 #### Week 1
@@ -37,7 +37,7 @@ April 2015
 #### Week 6
 + W6D1 = [Asteroids](https://github.com/kswang2400/asteroids)
 + W6D2 = [CSS Friends](https://github.com/kswang2400/CSS-Friends)
-+ W6D3 = [Tic Tac Toe](https://github.com/kswang2400/Tic-Tac-Toe) && [Towers of Hanoi](http://kswang2400.github.io/)
++ W6D3 = [Towers of Hanoi](http://kswang2400.github.io/) && [Tic Tac Toe](https://github.com/kswang2400/Tic-Tac-Toe)
 + W6D4 = [jQuery Plugins](https://github.com/kswang2400/jQuery-plugins)
 + W6D5 = [Ajax Twitter](https://github.com/kswang2400/ajax-twitter)
 
