@@ -1,1 +1,1 @@
-### Data Structure practice in Ruby
+### Data Structure Practice in Ruby
