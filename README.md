@@ -12,7 +12,7 @@ April 2015
 + W2D1 = [Minesweeper](https://github.com/kswang2400/minesweeper)
 + W2D2 = [Chess](https://github.com/kswang2400/chess)
 + W2D4 = [Checkers](https://github.com/kswang2400/checkers)
-+ W2D5 = Test Driven Development && [Poker](https://github.com/kswang2400/poker)
++ W2D5 = [Poker](https://github.com/kswang2400/poker) && Test Driven Development Practice
 
 #### Week 3
 + W3D1 = SQL Zoo
@@ -31,8 +31,8 @@ April 2015
 #### Week 5
 + W5D1 = Goals App
 + W5D2 = [Rails Lite](https://github.com/kswang2400/rails-lite)  
-+ W5D4 = Javscript Basics 
-+ W5D5 = Towers of Hanoi && Tic Tac Toe 
++ W5D4 = Javscript Basics
++ W5D5 = Towers of Hanoi && Tic Tac Toe
 
 #### Week 6
 + W6D1 = [Asteroids](https://github.com/kswang2400/asteroids)
@@ -41,3 +41,9 @@ April 2015
 + W6D4 = [jQuery Plugins](https://github.com/kswang2400/jQuery-plugins)
 + W6D5 = [Ajax Twitter](https://github.com/kswang2400/ajax-twitter)
 
+#### Week 7
++ W7D1 = [Pokedex-Backbone](https://github.com/kswang2400/pokedex-backbone)
+
+### Contact Info
+[Email]<kevinwang2400@gmail.com>
+[LinkedIn](https://www.linkedin.com/in/kevinwangucla)
