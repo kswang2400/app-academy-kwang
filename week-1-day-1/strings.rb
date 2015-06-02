@@ -39,11 +39,3 @@ def caesar(string, shift)
   # string.tr(from, to)
 end
 
-if __FILE__ == $PROGRAM_NAME
-  p num_to_s(5, 2)
-  p num_to_s(234, 2)
-  p num_to_s(234, 16)
-
-  p caesar("hello", 3)
-  p caesar("zany", 2)
-end

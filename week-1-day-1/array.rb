@@ -56,15 +56,4 @@ def stock_picker(array)
   output
 end
 
-if __FILE__ == $PROGRAM_NAME
-  p [1,2,1,3,3].my_uniq
-  p [-1, 0, 2, -2, 1].two_sum
-  p my_transpose([
-      [0, 1, 2],
-      [3, 4, 5],
-      [6, 7, 8]
-    ])
-  tester = [100, 50, -16, 129, -9, 100, -1000]
-  p stock_picker(tester)
-end
 

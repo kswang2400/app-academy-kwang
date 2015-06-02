@@ -28,18 +28,3 @@ class Array
   end
 end
 
-if __FILE__ == $PROGRAM_NAME
-  return_value = [1, 2, 3].my_each do |num|
-    puts num
-  end.my_each do |num|
-    puts num
-  end
-  p return_value
-
-  p [1, 2, 3, 4, 5].median
-  p [2, 3, 4, 5].median
-  p [2, 56, 77, 2, 1].median
-  p [3, 312, 234, 123].median
-
-  p ["Yay ", "for ", "strings!"].concatenate
-end
