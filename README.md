@@ -45,5 +45,5 @@ April 2015
 + W7D1 = [Pokedex-Backbone](https://github.com/kswang2400/pokedex-backbone)
 
 ### Contact Info
-[Email]<kevinwang2400@gmail.com>
+<space><space>[Email](<kevinwang2400@gmail.com>)<space><space><space><space><space><space>
 [LinkedIn](https://www.linkedin.com/in/kevinwangucla)
