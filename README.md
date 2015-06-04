@@ -44,6 +44,7 @@ April 2015
 #### Week 7
 + W7D1 = [Pokedex-Backbone-Models-Collections](https://github.com/kswang2400/pokedex-backbone)
 + W7D2 = [Pokedex-Backbone-Views-Routers](https://github.com/kswang2400/pokedex-backbone-day2)
++ W7D3 = [Journal App](https://github.com/kswang2400/journal-app)
 
 ### Contact Info
 + <a href="mailto:kevinwang2400@gmail.com">Email</a>
