@@ -2,7 +2,7 @@
 April 2015
 
 #### Week 8
-+ [PROJECT TRACKER](https://www.projecttracker.biz) 
++ [Project Tracker &copy;](https://www.projecttracker.biz) 
 
 #### Week 7
 + W7D1 = [Pokedex-Backbone-Models-Collections](https://github.com/kswang2400/pokedex-backbone)
